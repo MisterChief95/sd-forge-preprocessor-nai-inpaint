@@ -5,7 +5,7 @@ from modules_forge.supported_preprocessor import Preprocessor, PreprocessorParam
 
 
 # Original implementation from:
-# https://github.com/GumGum10/stable-diffusion-webui-reForge-test/blob/5fc19899158d45c810a2ca98b0259e229189f2ac/extensions-builtin/forge_preprocessor_inpaint/scripts/preprocessor_inpaint.py
+# https://github.com/Panchovix/stable-diffusion-webui-reForge
 class PreprocessorInpaintNoobAIXL(Preprocessor):
     def __init__(self):
         super().__init__()
